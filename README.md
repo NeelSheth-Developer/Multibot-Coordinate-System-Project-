@@ -74,9 +74,6 @@ The system consists of the following main components:
 ## Flowchart
 For a text-based representation of the flowchart, see below:
 
-![image](https://github.com/user-attachments/assets/2c4989eb-934f-492b-bea2-61a28ccc035c)
-
-
 ```mermaid
 graph TD
     A[Start] --> B[Initialize Camera and MQTT]
@@ -126,6 +123,3 @@ We welcome contributions to the Multibot Coordinate System Project. Please follo
 
 ![Screenshot 2023-07-12 123646](https://github.com/user-attachments/assets/90fe730b-8708-49e2-83d7-72fa300f9744)
 
-
-
-  
